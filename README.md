@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer who loves bu
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)](https://www.oracle.com/java/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 ## 🌟 Featured Projects
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer who loves bu
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ayushjain6112)
-[![Instagram](https://img.shields.io/badge/-Instagram-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://instagram.com/ashu__1306_)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/ashu__1306_)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?logo=firefox&logoColor=white&style=flat)](https://developer-ayush.vercel.app)
 
 ---
