@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer who loves bu
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ayushjain6112)
-[![Instagram](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://instagram.com/ashu__1306_)
+[![Instagram](https://img.shields.io/badge/-Instagram-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://instagram.com/ashu__1306_)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?logo=firefox&logoColor=white&style=flat)](https://developer-ayush.vercel.app)
 
 ---
